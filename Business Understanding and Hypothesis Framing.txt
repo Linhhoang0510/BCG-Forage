@@ -47,5 +47,4 @@
         Apply this on Customer Service Records and Customer Churn Feedbacks to identify major issues that PowerCo's customers experience 
         and complain about and what are their sentiments on those problems.
     + Machine Learning techniques: 
-        Using Random Forest to identify the most important factors affecting PowerCo's 
-        customer churn rates and to predict potential customers churn.
+        Testing several ML techniques and choose a model based on  model complexity, explainability, and accuracy.
