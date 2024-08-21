@@ -1,4 +1,4 @@
-# BCG-Forage (Job Simulation)
+# BCG X-Data Science (Job Simulation) - Forage
 
 Use data to advise your client, PowerCo, on how to retain their customers with the team at BCG X
 
