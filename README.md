@@ -13,3 +13,5 @@ Use data to advise your client, PowerCo, on how to retain their customers with t
 4. Modeling and Evaluation: Use the dataset to build predictive model (Random Forest in this case), and evaluate it
 
 5. Insights & Recommendations: Communicate the findings to stakeholders
+
+![image](https://github.com/user-attachments/assets/8f339286-63aa-44fe-9318-720299894ec3)
